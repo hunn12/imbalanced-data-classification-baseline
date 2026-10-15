@@ -1,0 +1,8 @@
+Method,AUPRC,AUROC
+Our - Logistic Regression (No Sampling),0.9301882814099841,0.9911026693639258
+Our - LDA (No Sampling),0.9077530022266163,0.986139207559354
+Authors - LDA (No Sampling),0.8917,0.9765
+Authors - LDA (Random Oversampling),0.8457,0.9851
+Authors - LDA (SMOTE),0.8412,0.9848
+Authors - LDA (Random Undersampling),0.8506,0.9851
+Authors - LDA (SMOTETomek),0.8412,0.9848
